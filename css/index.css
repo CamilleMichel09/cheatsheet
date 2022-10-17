@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-family: Verdana, serif;
+    color: white;
+    background-color: #191970;
+  }
+  caption {
+    line-height: 200%;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 20px;
+    color: #00008B;
+    font-size: 20px;
+  }
+  table {
+    border: solid;
+    border-radius: 10px;
+    background-color: #E0FFFF;
+    font-family: Trebuchet, serif;
+  }
+  thead {
+    background-color: #00CED1;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    letter-spacing: 2px;
+  }
+  tbody {
+    background-color: #b0e0e6;
+    color: black;
+  }
+  body {
+    background-color: #F5FFFA;
+  }
+  
+  
